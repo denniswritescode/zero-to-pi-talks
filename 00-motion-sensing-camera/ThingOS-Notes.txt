@@ -1,0 +1,27 @@
+########################################
+#  _________   ___  ___   ___   ________    ________   ________   ________      
+# |\___   ___\|\  \|\  \ |\  \ |\   ___  \ |\   ____\ |\   __  \ |\   ____\     
+# \|___ \  \_|\ \  \\\  \\ \  \\ \  \\ \  \\ \  \___| \ \  \|\  \\ \  \___|_    
+#      \ \  \  \ \   __  \\ \  \\ \  \\ \  \\ \  \  ___\ \  \\\  \\ \_____  \   
+      \ \  \  \ \  \ \  \\ \  \\ \  \\ \  \\ \  \|\  \\ \  \\\  \\|____|\  \  
+       \ \__\  \ \__\ \__\\ \__\\ \__\\ \__\\ \_______\\ \_______\ ____\_\  \ 
+        \|__|   \|__|\|__| \|__| \|__| \|__| \|_______| \|_______||\_________\
+                                                                  \|_________|
+#########################################
+
+# Some tips from:
+# https://github.com/ccrisan/thingos/wiki/Partitions
+
+
+# make mounts editable
+# https://github.com/ccrisan/thingos/wiki/Partitions#read-only-mounts
+mount -o remount,rw /
+mount -o remount,rw /boot
+
+# cleaning out data/ is basically a factory reset
+# https://github.com/ccrisan/thingos/wiki/Partitions#the-data-partition
+cd /
+rm -r data
+
+# OS configurations
+OS_DEBUG - If set to true, enables verbose logging and various debugging options. Defaults to false.
