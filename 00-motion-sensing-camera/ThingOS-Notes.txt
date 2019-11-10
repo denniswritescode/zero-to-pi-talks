@@ -27,3 +27,8 @@ rm -r data
 
 # OS configurations
 OS_DEBUG - If set to true, enables verbose logging and various debugging options. Defaults to false.
+
+# mounting fresh images
+diskutil list
+diskutil mount <volume-name> (doesn't work)
+diskutil mountDisk <volume-name>
