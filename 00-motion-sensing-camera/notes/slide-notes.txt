@@ -1,0 +1,10 @@
+
+
+slide 4 - http://socialcompare.com/en/comparison/raspberrypi-models-comparison
+
+HAT compatible - 
+
+raspberrypi zero w - https://lifehacker.com/the-raspberry-pi-zero-wireless-adds-wi-fi-and-bluetooth-1792789503
+
+On The Go - USB On-The-Go (OTG) is a standardized specification that allows a device to read data from a USB device without requiring a PC. The device basically becomes a USB host, which isn't an ability every gadget has. You will need an OTG cable or OTG connector
+https://www.makeuseof.com/tag/what-is-usb-otg-5-cool-ways-use-android/

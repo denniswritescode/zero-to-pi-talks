@@ -1,0 +1,39 @@
+
+
+
+- What are we doing today?
+	- Motion Sensing Camera
+	- Brief Overview of the Pi
+	- Hardware
+		- Types of Pis
+		- Types of Cameras
+	- Software
+		- Firmware
+		- OSs
+- Raspberry Pi Overview
+	- Pi Zero (demos)
+		- Specs
+	- Pi 2
+	- Pi 3
+	- Pi 4 (demos)
+- How to set up your Raspberry Pi 4
+	- Canakit
+	- Heat Sinks
+	- Case
+	- Flashing
+	- Insert SD card
+	- Power
+- How to set up your Pi Zero
+	- flashing
+- Pi Zero Camera
+	- Software
+- Pi 4 Camera
+	- Software OS
+- Running Software
+	- accessing camera from home
+	- accessing camera from internet (Ngrok)
+	- automated emails
+- Further enhancements
+	- Infrared
+	- Casing
+- Questions

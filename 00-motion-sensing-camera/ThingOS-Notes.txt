@@ -32,3 +32,7 @@ OS_DEBUG - If set to true, enables verbose logging and various debugging options
 diskutil list
 diskutil mount <volume-name> (doesn't work)
 diskutil mountDisk <volume-name>
+
+npm init
+npm install ngrok --save
+./node_modules/.bin/ngrok authtoken <your-token>
