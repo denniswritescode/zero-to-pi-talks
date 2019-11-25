@@ -1,9 +1,0 @@
-
-
-0. Get jq : brew install jq
-1. Download latest release
-    https://github.com/ccrisan/motioneyeos/releases/latest
-    curl https://api.github.com/repos/ccrisan/motioneyeos/releases/latest
-    curl https://api.github.com/repos/ccrisan/motioneyeos/releases/19898573/assets
-    curl -s https://api.github.com/repos/ccrisan/motioneyeos/releases/19898573/assets | jq -r '.[1].browser_download_url'
-2. Download Balena Etcher
