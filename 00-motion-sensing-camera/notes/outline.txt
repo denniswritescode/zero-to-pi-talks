@@ -37,3 +37,13 @@
 	- Infrared
 	- Casing
 - Questions
+
+
+
+COST
+$35 - Pi 4
+$10 - Pi Zero
+$25 - Camera Module v2.1 (NoIR)
+$18 - IR Camera (https://www.amazon.com/gp/product/B07T22X3PQ/ref=ppx_yo_dt_b_asin_title_o02_s01?ie=UTF8&psc=1)
+
+$28-$60 + cost of dongles 
